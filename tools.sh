@@ -6,7 +6,7 @@ fclean() {
     echo "+=-----------------------=+"
     echo "| Cleaning all project... |"
     echo "+=-----------------------=+"
-    rm -rf $DEBUG_DIRECTORY $RELEASE_DIRECTORY raytracer lib/ compile_commands.json
+    rm -rf $DEBUG_DIRECTORY $RELEASE_DIRECTORY client server lib/ compile_commands.json
 }
 
 ###############################

@@ -12,8 +12,8 @@ Debug/
 build/
 
 libs/
-raytracer
-!raytracer/
+server
+client
 *.so
 
 *.ppm
